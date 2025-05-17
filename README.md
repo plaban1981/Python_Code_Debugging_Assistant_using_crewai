@@ -4,6 +4,9 @@ Code Debugging Assistant  using crewai
 <img width="997" alt="image" src="https://github.com/user-attachments/assets/1ca95f2f-23c1-4aa6-b4f7-a1ac033afd45" />
 
 
+<img width="936" alt="image" src="https://github.com/user-attachments/assets/267dd2e7-f45b-42d5-8641-c3d4a69165bc" />
+
+
 ## Agent Processing Logs
 
 
