@@ -86,7 +86,8 @@ correction_task = Task(
     - fix: String explaining the fixes applied or "None"
     - rectifiled_code: String containing the complete corrected code""",
     agent=corrector_agent,
-    output_pydantic=correction
+    output_pydantic=correction,
+    context=[analysis_task]
 )
 
 # Create the crew with hierarchical process
